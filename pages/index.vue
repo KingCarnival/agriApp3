@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>More than Farming</h1>
+        <h1 class="font-sans text-5xl">More than Farming</h1>
     </div>
 </template>
 

@@ -7,9 +7,6 @@
             </article>
             <VideoPlayer videoId="OQNEOsiy8iA?si=Uh_O64obspgwapVh"/>
         </div>
-        <div class="grid flex-grow h-32 rounded-box place-items-right md:shrink-0 ">
-            
-        </div>
     </div>
     
 </template>

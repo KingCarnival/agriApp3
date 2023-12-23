@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base{
+    html{
+        font-family: 'Kalnia', serif;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    h1{
+        font-family: 'Afacad', sans-serif;
+    }
+}
