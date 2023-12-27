@@ -1,6 +1,7 @@
 <template>
     <div>
-        <h1 class="font-sans text-5xl content-center">More than Farming</h1>
+        <VitePwaManifest />
+            <h1 class="font-sans text-5xl content-center">More than Farming</h1>
     </div>
 </template>
 
