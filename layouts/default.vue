@@ -1,6 +1,11 @@
 <template>
 <div class="navbar bg-base-200">
 <header>
+     <head>
+          <link rel="icon" href="icons/favicon.ico" sizes="48x48">
+          <link rel="icon" href="icons/barn.svg" sizes="any" type="image/svg+xml">
+          <link rel="apple-touch-icon" href="icons/apple-touch-icon-180x180.png">
+        </head>
     <nav>
         <ul class="menu menu-vertical lg:menu-horizontal bg-base-200">
             <li class="flex items-center px-4"><NuxtLink to="/">Home</NuxtLink></li>
