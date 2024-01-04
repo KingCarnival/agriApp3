@@ -3,8 +3,15 @@
         <h1 class="font-sans text-5xl content-center">16-20 Year Olds</h1>
         <div class="grid flex-grow h-32 card rounded-box place-items-center">
             <article class="prose prose-bg-secondary">
-                <h2>Careers</h2>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo voluptate inventore voluptatibus illum nemo doloremque! Unde natus autem impedit molestias fugiat expedita, adipisci possimus distinctio rerum quibusdam quam laboriosam sed accusamus consectetur doloribus alias aut, amet dolore, tempore modi quas non? Excepturi nostrum cupiditate unde iure magni voluptas eius repudiandae amet. Harum molestias culpa facere numquam magnam, quaerat ad at?</p>
+                <h2>Theme: Farm Futures: Innovation and Impact!</h2>
+                <h3>Activities</h3>
+                <ul>
+                    <li>Urban Agriculture Champions: Design and propose plans for community gardens or vertical farming projects in urban areas, addressing food security and sustainability challenges.</li>
+                    <li>Agri-Entrepreneurs: Develop business plans for innovative farm-based products or services, considering market trends and consumer needs.</li>
+                    <li>Food Waste Warriors: Explore solutions to food waste through on-farm composting, upcycling projects, and innovative food preservation techniques</li>
+                    <li>Global Food Chains: Analyze the complexities of global food systems, including fair trade practices, environmental impact, and cultural food traditions.</li>
+                    <li>Tech for Tomorrow: Investigate the latest advancements in agricultural technology, including robotics, precision agriculture, and data analysis, for sustainable farming practices.</li>
+                </ul>
             </article>
         </div>
     </div>
