@@ -6,6 +6,7 @@ export default defineNuxtConfig({
     "@nuxtjs/google-fonts",
     "@nuxtjs/color-mode",
     "@vite-pwa/nuxt",
+    "@nuxt/image"
   ],
   pwa: {
     manifest: {
