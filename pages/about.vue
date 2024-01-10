@@ -5,7 +5,7 @@
                 <h2>About Us</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est dolorum earum accusantium, deserunt molestiae laudantium laboriosam temporibus aperiam, inventore unde voluptatibus. Tempore impedit, eum odio, quos modi nostrum dolores corrupti, tempora voluptas eos porro? Architecto explicabo nisi, consequuntur, suscipit adipisci cupiditate ea non quasi tempore, sequi odit unde modi vero!</p>
             </article>
-            <VideoPlayer videoId="OQNEOsiy8iA?si=Uh_O64obspgwapVh"/>
+            <VideoPlayer videoId="tWgDqBryR30"/>
         </div>
     </div>
     
