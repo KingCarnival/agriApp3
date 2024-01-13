@@ -1,9 +1,10 @@
 <template>
     <div>
         <h1 class="font-sans text-5xl content-center">5-10 Year Olds</h1>
-        <div class="grid flex-grow h-32 card rounded-box place-items-center">
+        <div class="card card-side card-bordered">
+            <div class="card-body items-center text-center">
                     <article class="prose prose-bg-secondary">
-                        <h2>Theme: Farm Explorers Adventure</h2>
+                        <h2 class="card-title">Theme: Farm Explorers Adventure</h2>
                         <h3>Activities</h3>
                         <ul>
                             <li>Plant Detectives: Learn about different fruits and vegetables through scavenger hunts in the garden or grocery store. Identify by color, shape, and texture.</li>
@@ -13,7 +14,9 @@
                             <li>Barnyard Olympics: Hold fun games and activities inspired by farm animals, like "egg and spoon" races or building chicken feeders from recycled materials.</li>
                         </ul>
                     </article>
+                    <figure><img src="/img/alexander-schimmeck-2zJhA9RSkys-unsplash.jpg" alt="Photo by Alexander Schimmeck on Unsplash"></figure>
                 </div>
+            </div>
     </div>
 </template>
 
