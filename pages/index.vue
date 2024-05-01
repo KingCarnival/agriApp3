@@ -1,9 +1,9 @@
 <template>
     <div class="flex justify-center">
         <VitePwaManifest />
-        <h1 class="font-sans text-5xl content-center">More than Farming</h1>
+        <h1 class="font-sans text-5xl content-center m-5">More than Farming</h1>
     </div>
-    <div class="justify-center grid grid-flow-row auto-rows-max lg:flex">
+    <div class="justify-center grid grid-flow-row auto-rows-max space-y-3 lg:flex lg:space-x-3">
         <div class="card card-compact w-96 bg-base-100 shadow-xl">
             <figure><img
                     src="https://images.unsplash.com/photo-1712135596996-3dda241aa9bc?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
