@@ -1,5 +1,5 @@
 <template>
-    <div class="flex justify-center">
+    <div>
         <h1 class="font-sans text-5xl content-center">5-10 Year Olds</h1>
         <div class="card card-side card-bordered">
             <div class="card-body items-center text-center">
