@@ -21,6 +21,7 @@
     "@vite-pwa/nuxt": "^0.7.0",
     "daisyui": "^4.10.2",
     "nuxt": "^3.11.2",
+    "nuxt-lucide-icons": "^1.0.4",
     "vue": "^3.4.26",
     "vue-router": "^4.3.2"
   }
