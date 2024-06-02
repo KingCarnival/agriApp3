@@ -3,6 +3,11 @@
         <VitePwaManifest />
         <h1 class="font-sans text-5xl content-center m-5">More than Farming</h1>
     </div>
+    <div class="flex justify-center">
+        <p class="prose"> Discover the fascinating world of agriculture with our interactive app designed for ages 5-18
+            From learning about crops and livestock to exploring sustainable farming practices, our app offers engaging
+            lessons, fun activities, and hands-on experiences to cultivate a lifelong passion for agriculture. </p>
+    </div>
     <div class="justify-center grid grid-flow-row auto-rows-max space-y-3 lg:flex lg:space-x-3">
         <div class="card card-compact w-96 bg-base-100 shadow-xl">
             <figure><img
